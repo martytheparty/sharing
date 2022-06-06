@@ -1,0 +1,24 @@
+{
+  "name": "sharing",
+  "version": "1.0.0",
+  "description": "Basic PHP App To Manage Images That I Upload From My Phone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ng": "ng"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martytheparty/sharing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martytheparty/sharing/issues"
+  },
+  "homepage": "https://github.com/martytheparty/sharing#readme",
+  "dependencies": {
+    "@angular/cli": "^14.0.0"
+  }
+}
